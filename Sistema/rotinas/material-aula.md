@@ -16,7 +16,18 @@ Depende do Chrome do Ref ligado com a extensão Claude in Chrome e logado no Can
 - Base: `https://edisciplinas.usp.br`. A lista em /my/courses.php carrega vazia para o leitor; use a AJAX do Moodle via javascript na página:
   `core_course_get_enrolled_courses_by_timeline_classification` (classification inprogress) e `core_courseformat_get_state` (courseid) para listar recursos.
 - Ids 2sem2026: TCC 144956, Cidades Inteligentes 142512, PCC3412 145010, PEF3401 143508, PEF3402 144954, PTR3432 144264, PTR3514 145054, PTR3522 145852 e 146072, PTR3534 144092.
-- PROBLEMA: `mod/resource/view.php` redireciona direto para o arquivo, que pode ser baixado em vez de exibido. Não abrir até o Ref decidir como tratar (ver decisão abaixo).
+- O ícone do recurso na página do curso (`li.activity.modtype_resource img`, ex.: `f/pdf`) diz o tipo antes de abrir. `core_course_get_contents` NÃO está disponível.
+- `mod/resource/view.php` redireciona para `pluginfile.php/...`. PDF abre no visualizador do Chrome (testado 2026-10-14, não baixou). O Ref liberou download em 2026-10-14, mas prefira o método abaixo, que não salva nada.
+
+## Método preferido para PDF: extrair texto na própria página (testado, rápido)
+
+Com a aba numa página HTML do mesmo site (ex.: a página do curso), rode no javascript_tool:
+1. `const pdfjs = await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.2.67/pdf.min.mjs'); pdfjs.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.2.67/pdf.worker.min.mjs';`
+2. Pegue a URL do pluginfile (abra o view.php uma vez e leia a URL da aba, ou procure `pluginfile.php` no HTML), faça `fetch(url).then(r=>r.arrayBuffer())`, `getDocument({data})`, junte `getTextContent()` de cada página e guarde em `window.__txt`.
+3. NÃO retorne o texto inteiro: a extensão bloqueia respostas com URLs e trunca respostas longas. Remova links (`/\S*(https?:|www\.|\?|=|&)\S*/g`), remova o rodapé repetido e devolva em blocos de 6 páginas, até ~1900 caracteres por chamada, usando browser_batch.
+4. Páginas sem texto são imagens/gráficos: anote e, se forem importantes, leia por screenshot.
+No Canvas, o link de download redireciona para outro domínio; testar o mesmo método antes de usar, senão manter a leitura por screenshot.
+PPTX: não testado. Mesma ideia com JSZip (cdnjs) lendo `ppt/slides/slide*.xml`.
 
 ## Passos
 
@@ -26,6 +37,6 @@ Depende do Chrome do Ref ligado com a extensão Claude in Chrome e logado no Can
 4. Registre em `Sistema/material-visto.md` (plataforma, curso, id, nome, data).
 5. Commit e push.
 
-## Decisão pendente
+## Decisões
 
-- e-Disciplinas: como ler sem baixar.
+- 2026-10-14: Ref liberou download no e-Disciplinas. Mesmo assim, extrair texto na página é o padrão, porque não deixa arquivo no computador dele.
