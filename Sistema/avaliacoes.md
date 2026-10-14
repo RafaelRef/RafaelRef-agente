@@ -9,12 +9,14 @@
 | 27/10 | Einstein | Bioética | TBL |
 | 28/10 | Einstein | Sistemas Digitais | SUB (só se precisar) |
 | 04/11 | Poli | PTR3514 SIT | Projeto Final |
+| 05/11 | Poli | PEF3401 Mecânica das Estruturas II | Trabalho 2 (entrega) |
 | 06/11 | Einstein | BSDigEH | TBL |
 | 09/11 | Einstein | Biomateriais | TBL |
 | 10/11 | Einstein | Modelagem e Simulação | TBL |
 | 11/11 | Einstein | Sistemas Digitais | P3 |
 | 13/11 | Einstein | BSDigEH | TBL |
 | 16/11 | Einstein | Biomateriais | Lab |
+| 23/11 | Poli | Cidades Inteligentes | Apresentação do projeto |
 | 24/11 | Einstein | Bioética | P2 |
 | 26/11 | Poli | PEF3401 Mecânica das Estruturas II | P2 |
 | 26/11 | Poli | PTR3522 Gestão de Pavimentos | P2 |
@@ -28,3 +30,5 @@
 | 08/12 | Poli | PTR3534 Transporte Aéreo | Prova final |
 
 Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Plano inicial gerado em 14/10 até 04/11.
+
+A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11; "Relatório Final" em 24/11 (IC?).
