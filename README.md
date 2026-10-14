@@ -17,7 +17,7 @@ Memória e "código" do agente pessoal do Ref. Cada rotina agendada é uma sess�
 | Quando | Rotina | Status |
 |---|---|---|
 | Todo dia 21h | Resumo do dia seguinte | ativa |
-| Domingo 18h | Revisão semanal + blocos de estudo | ativa |
+| Domingo 18h | Revisão semanal + Plano de Estudos no Notion (3 semanas) | ativa |
 | Todo dia 20h30 | Material de aula (Canvas, e-Disciplinas) + Notion | ativa (precisa do computador ligado) |
 | Diária | Triagem de email | fase 2 |
 | Semanal | Entidades (HJE, InovaBio, IC) | fase 3 |

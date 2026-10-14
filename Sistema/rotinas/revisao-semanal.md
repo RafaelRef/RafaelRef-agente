@@ -1,26 +1,32 @@
-# Rotina: revisão semanal (domingo, 18h)
+# Rotina: revisão semanal e plano de estudos (domingo, 18h)
 
-Objetivo: visão da semana que começa amanhã e blocos de estudo antes de cada avaliação.
+Objetivo: manter o "Plano de Estudos" do Notion sempre cobrindo as próximas 3 semanas, com manutenção semanal de todas as matérias e intensificação antes de cada avaliação.
+
+O plano vive no Notion, banco "Plano de Estudos" (data source `collection://e98bd3cf-c3e8-4745-a336-c82a1cd26fc9`, visão Calendário). A agenda Google `ESTUDOS` é só espelho para lembrete no celular.
 
 ## Passos
 
-1. Leia os eventos de segunda a domingo da próxima semana e das duas seguintes na agenda principal e em `ESTUDOS`.
-2. Identifique avaliações: eventos de dia inteiro ou com título contendo `P1`, `P2`, `P3`, `PSUB`, `TBL`, `QUIZ`, `Prova`, `Entrega`, `Lab`, `Seminário`.
-3. Identifique dias carregados (mais de 8h de compromissos ou 3+ frentes diferentes).
-4. Para cada avaliação nas próximas 2 semanas, planeje blocos de estudo:
-   - Prova grande (P1, P2, PSUB): 3 blocos de 1h30 nos 5 dias anteriores.
-   - TBL, quiz, lab: 1 bloco de 1h nos 2 dias anteriores.
-   - Prioridade Einstein em caso de conflito.
-   - Somente em horários livres na agenda principal, entre 7h e 22h, com 15 min de folga antes e depois de qualquer compromisso.
-5. Antes de criar, liste os eventos existentes em `ESTUDOS` com `[agente]` na descrição. Se a chave já existe e o horário ainda está livre, mantenha. Se o horário deixou de estar livre, mova. Se o Ref mexeu manualmente num bloco (horário diferente do planejado), respeite e registre em `Sistema/observacoes.md`.
-6. Crie os eventos novos em `ESTUDOS` com título `Estudo: <matéria> (<avaliação>)` e descrição `[agente] chave=<avaliação>-<data>-<n>` mais 1 a 3 linhas do que revisar (use `Estudos/<materia>/` se houver).
-7. Escreva `Revisoes/<AAAA>-S<semana>.md` com: resumo da semana passada (o que estava na agenda, tarefas concluídas no Notion), visão da próxima, dias carregados, blocos criados.
-8. Commit e push.
+1. Avaliações: leia a agenda principal de hoje até o fim do semestre e atualize `Sistema/avaliacoes.md`. Avaliação = evento cujo título contém `P1`, `P2`, `P3`, `PSUB`, `SUB`, `TBL`, `QUIZ`, `Prova`, `Projeto Final`, `Entrega`, `Lab`, `Seminário`. Confira também prazos no Canvas (`/api/v1/courses/<id>/assignments?bucket=upcoming`) quando o Chrome estiver disponível. Ignore SUB (só se precisar) a menos que o Ref diga o contrário.
+2. Leia o que já existe no banco para as próximas 3 semanas (query pela data). Respeite o Ref:
+   - Sessão com Status "Feito" ou "Pulei": não mexa.
+   - Sessão cujo horário não bate mais com o que o agente criou (o Ref moveu): mantenha onde ele pôs e registre em `Sistema/observacoes.md`.
+   - Sessão "Pulei" de Pré-prova: tente repor uma sessão antes da avaliação.
+3. Gere as sessões que faltam para as próximas 3 semanas com `Sistema/scripts/planejar.py` (entrada: JSON da agenda salvo em arquivo + `Sistema/avaliacoes.md`; saída: lista de sessões). Regras do script:
+   - Manutenção semanal: 1 sessão por matéria por semana, dentro de 5 dias após a aula. Einstein 60 min, Poli 45 min, TCC 60 min. Não há manutenção da matéria na semana em que ela tem sessões pré-avaliação.
+   - Pré-prova: Einstein D-6, D-4, D-2, D-1; Poli D-5, D-3, D-1; 90 min cada.
+   - Pré-TBL/Quiz: D-2 e D-1, 60 min (se caírem no mesmo dia, fica uma só).
+   - Pré-lab: D-1, 30 min.
+   - Só entre 7h e 22h, 15 min de folga antes e depois de qualquer compromisso, almoço 12h-13h livre, no máximo 4h de estudo por dia útil e 6h no fim de semana. Dias com evento de dia inteiro pessoal (viagem, festa, plantão) ficam livres.
+   - Prioridade em conflito: pré-avaliação > manutenção Einstein > manutenção Poli.
+4. Crie no banco só as sessões cuja Chave ainda não existe (Chave `man-<matéria>-<semana ISO>` ou `pre-<avaliação>-<data>-<n>`). Campo Foco: use o resumo mais recente em `Estudos/<materia>/` quando houver; senão "Revisar a aula da semana e fazer os exercícios."
+5. Espelho: para cada sessão das próximas 7 dias, crie/atualize evento na agenda `ESTUDOS` com título igual à Sessão e descrição `[agente] chave=<Chave>`. Apague só eventos `[agente]` cuja sessão não existe mais.
+6. Escreva `Revisoes/<AAAA>-S<semana>.md`: sessões feitas x puladas na semana que passou (por matéria), avaliações das próximas 3 semanas, dias mais pesados.
+7. Commit e push.
 
 ## Notificação
 
 ```
 Semana: <n> avaliações (<lista curta>)
-Dia mais pesado: <dia> (<motivo>)
-Blocos: <n> criados, <n> mantidos, <n> movidos na agenda ESTUDOS
+Estudo: <n> sessões, <h> horas; mais pesado <dia>
+Semana passada: <feitas>/<total> sessões
 ```

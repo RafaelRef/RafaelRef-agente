@@ -1,0 +1,30 @@
+# Avaliações do semestre (cópia da agenda; a agenda vence)
+
+| Data | Faculdade | Matéria | Avaliação |
+|---|---|---|---|
+| 16/10 | Einstein | BSDigEH | P2 |
+| 19/10 | Einstein | Biomateriais | Lab |
+| 20/10 | Einstein | Modelagem e Simulação | TBL |
+| 21/10 | Einstein | Sistemas Digitais | Quiz |
+| 27/10 | Einstein | Bioética | TBL |
+| 28/10 | Einstein | Sistemas Digitais | SUB (só se precisar) |
+| 04/11 | Poli | PTR3514 SIT | Projeto Final |
+| 06/11 | Einstein | BSDigEH | TBL |
+| 09/11 | Einstein | Biomateriais | TBL |
+| 10/11 | Einstein | Modelagem e Simulação | TBL |
+| 11/11 | Einstein | Sistemas Digitais | P3 |
+| 13/11 | Einstein | BSDigEH | TBL |
+| 16/11 | Einstein | Biomateriais | Lab |
+| 24/11 | Einstein | Bioética | P2 |
+| 26/11 | Poli | PEF3401 Mecânica das Estruturas II | P2 |
+| 26/11 | Poli | PTR3522 Gestão de Pavimentos | P2 |
+| 27/11 | Einstein | BSDigEH | P3 |
+| 01/12 | Poli | PCC3412 Real Estate | P2 |
+| 02/12 | Poli | PTR3432 Aeroportos | P2 |
+| 03/12 | Einstein | Física Médica | P2 |
+| 04/12 | Poli | PEF3402 Estruturas de Aço | P2 |
+| 07/12 | Einstein | Biomateriais | P2 |
+| 07/12 | Poli | Cidades Inteligentes | Prova final |
+| 08/12 | Poli | PTR3534 Transporte Aéreo | Prova final |
+
+Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Plano inicial gerado em 14/10 até 04/11.
