@@ -1,4 +1,4 @@
-# Rotina: material de aula (fase 2, ainda não agendada)
+# Rotina: material de aula (todo dia, 20h30)
 
 Depende do Chrome do Ref ligado com a extensão Claude in Chrome e logado no Canvas e no e-Disciplinas. Nunca digite senha; se pedir login, pare e avise.
 
@@ -34,8 +34,19 @@ PPTX: não testado. Mesma ideia com JSZip (cdnjs) lendo `ppt/slides/slide*.xml`.
 1. Liste material novo nas duas plataformas (máximo 6 por execução, prioridade para aulas dos próximos 2 dias e Einstein).
 2. Leia cada um no visualizador. Não baixe arquivos.
 3. Escreva `Estudos/<materia>/<chave>.md`: conceitos-chave curtos, pré-requisitos e o que revisar, link para o original. Lista de exercício: o que cada questão pede, sem resolver. Prova antiga: atualize `Estudos/<materia>/topicos-mais-cobrados.md`.
-4. Registre em `Sistema/material-visto.md` (plataforma, curso, id, nome, data).
-5. Commit e push.
+4. Espelhe no Notion: na página "Estudos" (id `3f91f5b2-a2e4-81a3-8569-d5cf89035d29`) existe uma subpágina por matéria (veja `Sistema/notion.md`). Acrescente o resumo como uma seção `## <título da aula>` no TOPO da subpágina da matéria; se a matéria ainda não tiver subpágina, crie e registre o id em `Sistema/notion.md`. Antes de acrescentar, confira se a seção já existe (idempotência).
+5. Tarefas: tudo no material que pede ação do Ref (instalar programa, entregar, ler antes, levar algo) vira tarefa no banco "Tarefas do Agente", com Frente, Origem, Link, Prazo quando houver e Chave `<plataforma>-<id>-<assunto>`. Busque a Chave antes de criar.
+6. Registre em `Sistema/material-visto.md` (plataforma, curso, id, nome, data).
+7. Commit e push.
+
+## Notificação
+
+```
+Material: <n> novos lidos (<matérias>)
+Tarefas: <n> criadas (<a mais urgente>)
+<falhas em uma linha, se houver>
+```
+Se o Chrome não estiver disponível: uma linha dizendo que pulou o dia.
 
 ## Decisões
 

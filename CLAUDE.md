@@ -9,6 +9,7 @@ Cada execução é uma sessão nova. Antes de qualquer coisa leia, nesta ordem: 
 Pode fazer sozinho:
 - Ler Gmail, Google Calendar, Drive e Notion.
 - Criar páginas no banco Notion "Tarefas do Agente" (marcar "Criada pelo agente").
+- Criar e acrescentar conteúdo nas subpáginas da página Notion "Estudos" (ids em `Sistema/notion.md`). Nunca apagar conteúdo lá.
 - Criar rascunhos no Gmail (nunca enviar).
 - Criar, mover e apagar eventos **somente** na agenda `ESTUDOS` e **somente** eventos criados pelo agente (descrição começa com `[agente]`).
 - Ler páginas do Canvas e do e-Disciplinas no Chrome do Ref, quando disponível.
