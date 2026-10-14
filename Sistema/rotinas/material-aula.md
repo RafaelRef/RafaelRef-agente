@@ -35,7 +35,7 @@ PPTX: não testado. Mesma ideia com JSZip (cdnjs) lendo `ppt/slides/slide*.xml`.
 2. Leia cada um no visualizador. Não baixe arquivos.
 3. Escreva `Estudos/<materia>/<chave>.md`: conceitos-chave curtos, pré-requisitos e o que revisar, link para o original. Lista de exercício: o que cada questão pede, sem resolver. Prova antiga: atualize `Estudos/<materia>/topicos-mais-cobrados.md`.
 4. Espelhe no Notion: na página "Estudos" (id `3f91f5b2-a2e4-81a3-8569-d5cf89035d29`) existe uma subpágina por matéria (veja `Sistema/notion.md`). Acrescente o resumo como uma seção `## <título da aula>` no TOPO da subpágina da matéria; se a matéria ainda não tiver subpágina, crie e registre o id em `Sistema/notion.md`. Antes de acrescentar, confira se a seção já existe (idempotência).
-5. Tarefas: tudo no material que pede ação do Ref (instalar programa, entregar, ler antes, levar algo) vira tarefa no banco "Tarefas do Agente", com Frente, Origem, Link, Prazo quando houver e Chave `<plataforma>-<id>-<assunto>`. Busque a Chave antes de criar.
+5. Tarefas: tudo no material que pede ação do Ref (instalar programa, entregar, ler antes, levar algo) vira tarefa no banco "Tarefas do Agente", com Tipo "Ação", Frente, Origem, Link, Prazo quando houver e Chave `<plataforma>-<id>-<assunto>`. Busque a Chave antes de criar.
 6. Registre em `Sistema/material-visto.md` (plataforma, curso, id, nome, data).
 7. Commit e push.
 
