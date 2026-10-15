@@ -9,6 +9,9 @@
 |---|---|---|
 | Sistemas Digitais (Einstein) | Estudos/sistemas-digitais | 3f91f5b2-a2e4-818d-8dd0-fb05fcbc26fb |
 | PTR3522 Gestão de Pavimentos (Poli) | Estudos/ptr3522-gestao-de-pavimentos | 3f91f5b2-a2e4-817c-bf6d-eb5702c14236 |
+| BSDigEH (Einstein) | Estudos/bsdigeh | 3fa1f5b2-a2e4-8123-9837-e0b4b00cd7fb |
+| Modelagem e Simulação (Einstein) | Estudos/modelagem-e-simulacao | 3fa1f5b2-a2e4-8150-9be3-f0d6576fd945 |
+| PTR3432 Aeroportos (Poli) | Estudos/ptr3432-aeroportos | 3fa1f5b2-a2e4-813e-bd4f-c4caf75f96c2 |
 
 - Banco "Plano de Estudos": data source `collection://e98bd3cf-c3e8-4745-a336-c82a1cd26fc9`, database `27248603c73143eca1700beb40cdaeac`, visão Calendário. Fica dentro da página "Estudos" (o Ref renomeou para "Guia de Estudos").
 

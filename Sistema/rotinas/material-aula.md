@@ -26,7 +26,11 @@ Com a aba numa página HTML do mesmo site (ex.: a página do curso), rode no jav
 2. Pegue a URL do pluginfile (abra o view.php uma vez e leia a URL da aba, ou procure `pluginfile.php` no HTML), faça `fetch(url).then(r=>r.arrayBuffer())`, `getDocument({data})`, junte `getTextContent()` de cada página e guarde em `window.__txt`.
 3. NÃO retorne o texto inteiro: a extensão bloqueia respostas com URLs e trunca respostas longas. Remova links (`/\S*(https?:|www\.|\?|=|&)\S*/g`), remova o rodapé repetido e devolva em blocos de 6 páginas, até ~1900 caracteres por chamada, usando browser_batch.
 4. Páginas sem texto são imagens/gráficos: anote e, se forem importantes, leia por screenshot.
-No Canvas, o link de download redireciona para outro domínio; testar o mesmo método antes de usar, senão manter a leitura por screenshot.
+No Canvas (testado 2026-10-15, funciona): o fetch do link `download` falha (CORS). Em vez disso abra `/courses/<id>/files/<file_id>`, espere o iframe cujo src contém `canvadoc_session`, faça `location.href = iframe.src` (vai para canvadocs.instructure.com/1/sessions/<sessão>/view) e, nessa página, o PDF está no mesmo domínio em `location.pathname.replace(/\/view$/,'') + '/file/file.pdf'`. Rode o pdf.js ali. Não retorne a URL da sessão (a extensão bloqueia).
+- Respostas do javascript_tool truncam por volta de 1000 caracteres: use blocos de ~950.
+- Slides com animação incremental repetem texto: descarte a página cujo texto é prefixo da seguinte.
+- Cursos do Canvas sem aba Arquivos (Bioet, BSDigEH, FisMed, ModelS) dão 403 em `/files`; liste por `/api/v1/courses/<id>/modules?include[]=items&per_page=50` (itens tipo File) e pegue `updated_at` em `/api/v1/courses/<id>/files/<file_id>`.
+- e-Disciplinas: `fetch('/mod/resource/view.php?id=<cmid>&redirect=1')` já devolve o PDF (mesmo domínio), sem abrir a aba. Recurso mais novo = maior cmid.
 PPTX: não testado. Mesma ideia com JSZip (cdnjs) lendo `ppt/slides/slide*.xml`.
 
 ## Passos
