@@ -12,3 +12,9 @@
 | 2026-10-15 | Canvas | Sistemas Digitais | 2397108 | Prova2__10_5_2026__10_52_15_PM.cv (só registrado, não é slide) |
 | 2026-10-15 | Canvas | Sistemas Digitais | 2397107 | TB.csv (só registrado, não é slide) |
 | 2026-10-15 | e-Disciplinas | PTR3432 Aeroportos | 6608977 | 04 - Controle de Tráfego Aéreo |
+| 2026-10-15 | Canvas | Biomateriais | 2400950 | Apostila Lab TQ_Roteiros 2020-1.pdf (Lab 1, degradação e entumecimento) |
+| 2026-10-15 | Canvas | Biomateriais | 2400951 | ASTM F1635-11.pdf (escopo, método) |
+| 2026-10-15 | Canvas | Biomateriais | 2400952 | Degradação de Polímeros.pdf (review; resumo, Tabela 2, conclusão) |
+| 2026-10-15 | Canvas | Biomateriais | 2400953 | ISO-10993-13-2010.pdf (escopo, ensaios) |
+| 2026-10-15 | Canvas | Biomateriais | 2329749 | Plano de Ensino - Biomateriais.pdf (versão atualizada em 15/10) |
+| 2026-10-15 | Canvas | Modelagem e Simulação | 2398565 | MathModelsRespMech_NucciCobelli.pdf (intro, conceitos, mapa de seções) |
