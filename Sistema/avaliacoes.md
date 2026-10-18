@@ -2,7 +2,6 @@
 
 | Data | Faculdade | Matéria | Avaliação |
 |---|---|---|---|
-| 16/10 | Einstein | BSDigEH | P2 |
 | 19/10 | Einstein | Biomateriais | Lab |
 | 20/10 | Einstein | Modelagem e Simulação | TBL |
 | 21/10 | Einstein | Sistemas Digitais | Quiz |
@@ -29,6 +28,6 @@
 | 07/12 | Poli | Cidades Inteligentes | Prova final |
 | 08/12 | Poli | PTR3534 Transporte Aéreo | Prova final |
 
-Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Plano inicial gerado em 14/10 até 04/11.
+Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Conferido com a agenda em 18/10 (revisão semanal); sem mudança de datas. Canvas não conferido (Chrome indisponível na execução em nuvem).
 
-A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11; "Relatório Final" em 24/11 (IC?).
+A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11; "Relatório Final" em 24/11 (IC?). Novos na agenda em 18/10, sem tarefa (não batem com os prefixos de avaliação): "Relatório Parcial" em 27/10, "Visita CETEC - BioMat" em 23/11, "Psub Bioética" em 01/12 (SUB, ignorada).

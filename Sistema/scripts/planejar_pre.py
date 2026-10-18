@@ -99,6 +99,7 @@ for ch, s, e in existentes:
     if ch.startswith('pre-'):
         k = ch.rsplit('-', 1)[0][4:]; dd = DT.fromisoformat(s.replace('Z','+00:00')).astimezone(TZ).date()
         cob.setdefault(k, []).append(dd)
+chaves = {ch for ch, s, e in existentes}
 pages = []; tot = 0
 # ordem: avaliações mais próximas primeiro, offsets mais tardios primeiro (garante a reta final)
 for ds,m,fac,tp,nome,tid in sorted(A):
@@ -107,6 +108,7 @@ for ds,m,fac,tp,nome,tid in sorted(A):
     k = nome.replace(' ','') + '-' + ds
     for o in sorted(offs, reverse=True):
         alvo = d + TD(days=o)
+        if f"pre-{k}-d{-o}" in chaves: continue  # chave já existe (v3, 2026-10-18)
         if any(abs((c-alvo).days) <= 1 for c in cob.get(k, [])): continue
         du = dur or (60 if o == -3 else 30)
         if alvo < hoje.date(): continue
