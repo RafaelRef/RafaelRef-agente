@@ -18,3 +18,9 @@
 | 2026-10-15 | Canvas | Biomateriais | 2400953 | ISO-10993-13-2010.pdf (escopo, ensaios) |
 | 2026-10-15 | Canvas | Biomateriais | 2329749 | Plano de Ensino - Biomateriais.pdf (versão atualizada em 15/10) |
 | 2026-10-15 | Canvas | Modelagem e Simulação | 2398565 | MathModelsRespMech_NucciCobelli.pdf (intro, conceitos, mapa de seções) |
+| 2026-10-20 | Canvas | Sistemas Digitais | 2402455 | SD_12_PreAula.pdf |
+| 2026-10-20 | Canvas | Sistemas Digitais | 2402351 | SD_11_TBL.pdf (slides 2 a 15 são imagem, não lidos) |
+| 2026-10-20 | Canvas | Física Médica | 2374155 | Lista de Física Médica.pdf |
+| 2026-10-20 | e-Disciplinas | PTR3514 SIT | 6616363 | Projetos Temáticos - primeira etapa (tarefa, entrega 21/10 10h) |
+| 2026-10-20 | e-Disciplinas | PEF3401 | 6616398-6616404 | G24 a G27 - Dados (só registrado, dados de grupos) |
+| 2026-10-20 | e-Disciplinas | PCC3412 | 6611884 | Arquivo com as notas P1 (só registrado, não lido) |
