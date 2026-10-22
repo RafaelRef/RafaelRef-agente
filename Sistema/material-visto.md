@@ -27,3 +27,9 @@
 | 2026-10-20 | e-Disciplinas | PTR3432 Aeroportos | 6616702 | 05 - Planejamento Aeroportuário |
 | 2026-10-20 | e-Disciplinas | PTR3534 Transporte Aéreo | 6603738 | Aulas até 06Out26 (compilado, lido por mapa de seções) |
 | 2026-10-22 | Canvas | Bioética | 2322960 | Maranhão, Ética e regulação da IA baseada em riscos (texto TBL III 27/10) |
+| 2026-10-22 | Canvas | BSDigEH | 2403694 | Material Pré-Aula - Hematopoiese.pdf (escaneado, lido por imagem) |
+| 2026-10-22 | Canvas | BSDigEH | 2403707 | Material Pré-Aula - Células Sanguíneas.pdf |
+| 2026-10-22 | Canvas | Física Médica | 2406377 | Introdução à Medicina Nuclear-1.pdf (por mapa de seções) |
+| 2026-10-22 | Canvas | Física Médica | 2408304 | Radiofarmacos.pdf (slides G7) |
+| 2026-10-22 | Canvas | Física Médica | 2408305 | Aula 10 - RM.pdf (slides só imagem não lidos) |
+| 2026-10-22 | Canvas | Física Médica | 2408281 | Pontos avaliados no seminário.pdf |
