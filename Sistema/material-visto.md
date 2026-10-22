@@ -26,3 +26,4 @@
 | 2026-10-20 | e-Disciplinas | PCC3412 | 6611884 | Arquivo com as notas P1 (só registrado, não lido) |
 | 2026-10-20 | e-Disciplinas | PTR3432 Aeroportos | 6616702 | 05 - Planejamento Aeroportuário |
 | 2026-10-20 | e-Disciplinas | PTR3534 Transporte Aéreo | 6603738 | Aulas até 06Out26 (compilado, lido por mapa de seções) |
+| 2026-10-22 | Canvas | Bioética | 2322960 | Maranhão, Ética e regulação da IA baseada em riscos (texto TBL III 27/10) |
