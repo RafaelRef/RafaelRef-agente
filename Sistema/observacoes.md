@@ -7,3 +7,6 @@
 - 2026-10-18 | revisao-semanal | "Campos Bia e Isa" na agenda vai de 30/10 a 02/11 (dia inteiro), mas o planejador só bloqueava 30/10 a partir de 12h. Há 8 sessões em 31/10 (3h30) e 01/11 (6h). Se for viagem, o Ref deve mover; não mexi porque são sessões já criadas. Confirmar e, se for viagem, bloquear 31/10 a 02/11 no BLOQ.
 - 2026-10-18 | revisao-semanal | "COIN" de 11/11 a 14/11 (dia inteiro, HJE?). Há sessões em 12/11 e 13/11. Confirmar se é evento que ocupa o dia.
 - 2026-10-18 | revisao-semanal | Sem espaço (reta final cheia): P2 PEF3402 D-7 e D-10, P2 BioMat D-10 e D-14, Prova final Cidades D-10.
+- 2026-10-25 | revisao-semanal | Semana 43: 0 de 21 sessões com Status marcado (segunda semana seguida). Ainda sem conclusão.
+- 2026-10-25 | revisao-semanal | Sessões antigas do agente quebram a regra de quinta de manhã livre: man-PTR3522-44 e man-PEF3401-44 em 29/10 9h30 e 10h30 (criadas antes de a regra entrar no planejador). Não movi: a semana 44 está sem espaço. Se o Ref quiser, ele move.
+- 2026-10-25 | revisao-semanal | Continua sem resposta: "Campos Bia e Isa" 30/10 a 02/11 tem 9 sessões em 31/10 e 01/11 (8h no total). "COIN" 11 a 14/11 tem sessões em 12/11, 13/11 e agora 4 manutenções novas no sáb 14/11.
