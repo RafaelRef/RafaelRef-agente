@@ -6,10 +6,10 @@
 | 20/10 | Einstein | Modelagem e Simulação | TBL |
 | 21/10 | Einstein | Sistemas Digitais | Quiz |
 | 27/10 | Einstein | Bioética | TBL |
-| 28/10 | Einstein | Sistemas Digitais | Quiz (último; agenda diz 28/10, aviso do Canvas de 23/10 dizia 27/10) |
+| 28/10 | Einstein | Sistemas Digitais | Quiz (último; agenda diz 28/10, aviso do Canvas de 23/10 e pré-aula 13 dizem 27/10) |
 | 28/10 | Einstein | Sistemas Digitais | SUB (só se precisar) |
 | 04/11 | Poli | PTR3514 SIT | Projeto Final |
-| 05/11 | Poli | PEF3401 Mecânica das Estruturas II | Trabalho 2 (entrega) |
+| 05/11 | Poli | PEF3401 Mecânica das Estruturas II | Trabalho 2 (entrega; enunciado lido em 26/10 diz 12/11 23h59, vale a agenda) |
 | 06/11 | Einstein | BSDigEH | TBL |
 | 09/11 | Einstein | Biomateriais | TBL |
 | 10/11 | Einstein | Modelagem e Simulação | TBL |

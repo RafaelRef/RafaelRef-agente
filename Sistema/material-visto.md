@@ -33,3 +33,15 @@
 | 2026-10-22 | Canvas | Física Médica | 2408304 | Radiofarmacos.pdf (slides G7) |
 | 2026-10-22 | Canvas | Física Médica | 2408305 | Aula 10 - RM.pdf (slides só imagem não lidos) |
 | 2026-10-22 | Canvas | Física Médica | 2408281 | Pontos avaliados no seminário.pdf |
+| 2026-10-26 | Canvas | Sistemas Digitais | 2408659 | SD_13_PreAula.pdf |
+| 2026-10-26 | Canvas | Sistemas Digitais | 2408660 | SD_12_HDL.pdf |
+| 2026-10-26 | Canvas | Sistemas Digitais | 2408662 | Aula12_GAMBino...cv (só registrado, não é slide) |
+| 2026-10-26 | Canvas | Biomateriais | 2409080 | Pre-Aula .pdf (avaliação biológica e ISO 10993, por mapa de seções) |
+| 2026-10-26 | Canvas | Biomateriais | 2409917 | Anexo B - Alunos.docx |
+| 2026-10-26 | Canvas | Biomateriais | 2409035-2409056, 2409036 | ISO 10993 partes 1 a 20 e EN-ISO 14971 (só registrado, normas de referência) |
+| 2026-10-26 | e-Disciplinas | PEF3401 | 6615980 | Enunciado do T2 |
+| 2026-10-26 | e-Disciplinas | PEF3401 | 6616297-6616404 | G1 a G27 - Dados (só registrado, dados de grupos) |
+| 2026-10-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6620005 (= 6619994 na outra turma) | Aula 10 (gerência viária, banco de dados e SIG) |
+| 2026-10-26 | e-Disciplinas | PTR3432 Aeroportos | 6617943 | Notas Moodle 1 (só registrado) |
+| 2026-10-26 | e-Disciplinas | Cidades Inteligentes | 6620459 | Notas das Atividades (só registrado) |
+| 2026-10-26 | e-Disciplinas | PTR3534 Transporte Aéreo | 6620186 | Notas e frequências até 20Out26 (só registrado) |
