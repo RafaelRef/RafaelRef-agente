@@ -45,3 +45,6 @@
 | 2026-10-26 | e-Disciplinas | PTR3432 Aeroportos | 6617943 | Notas Moodle 1 (só registrado) |
 | 2026-10-26 | e-Disciplinas | Cidades Inteligentes | 6620459 | Notas das Atividades (só registrado) |
 | 2026-10-26 | e-Disciplinas | PTR3534 Transporte Aéreo | 6620186 | Notas e frequências até 20Out26 (só registrado) |
+| 2026-10-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6620007 (= 6620003 na outra turma) | Aula 11 (priorização, MCDA e otimização) |
+| 2026-10-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6620006 (= 6619995) | LTPP_BOOK (livro FHWA-HRT-15-049, 335 p., só registrado) |
+| 2026-10-26 | e-Disciplinas | PTR3432 Aeroportos | 6617906 | Revisão P1 (organizer de horários 03 e 04/11; virou tarefa) |

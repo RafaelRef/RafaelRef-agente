@@ -1,6 +1,6 @@
 # Aula 10: Sistemas de gerência viária, banco de dados e SIG
 
-Fonte: e-Disciplinas, PTR3522 Gestão de Pavimentos (curso 145852; mesmo arquivo no 146072 como 6619994), recurso 6620005 (https://edisciplinas.usp.br/mod/resource/view.php?id=6620005). 34 slides. Lido em 2026-10-26. Junto vieram "LTPP_BOOK" e "Aula 11" (não lidos ainda).
+Fonte: e-Disciplinas, PTR3522 Gestão de Pavimentos (curso 145852; mesmo arquivo no 146072 como 6619994), recurso 6620005 (https://edisciplinas.usp.br/mod/resource/view.php?id=6620005). 34 slides. Lido em 2026-10-26. Junto vieram "LTPP_BOOK" (só registrado) e "Aula 11" (`edisciplinas-6620007.md`).
 
 ## Conceitos-chave
 - As cinco perguntas do gestor: que ativos temos e onde; em que condição estão e estarão; quanto valem; o que fazer e quanto custa manter; o que acontece sem recurso.
