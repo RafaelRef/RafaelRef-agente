@@ -14,3 +14,4 @@
 - 2026-10-26 23:3x UTC | material-aula | Segunda rodada do dia (20h30 BRT). Canvas sem material novo desde a rodada das 16h. Pendentes do e-Disciplinas zerados (PTR3522 Aula 11 e LTPP_BOOK, PTR3432 Revisão P1). Sem falhas.
 - 2026-10-27 23:5x UTC | resumo-noturno | Gmail indisponível: search_threads devolveu "Resource has been exhausted (e.g. check quota)" nas 3 tentativas. Email não lido, nenhuma tarefa criada a partir de email.
 - 2026-11-01 15:2x UTC | material-aula | Canvas com sessão expirada (API /users/self devolve "unauthenticated") e e-Disciplinas também (painel "Visitante", userId 1). Nada lido, pulado sem login. Rodada atrasada (agendada 31/10 20h28 BRT, disparou 01/11 12h20 BRT).
+- 2026-11-01 21:0x UTC | revisao-semanal | Prazos do Canvas não conferidos: execução em nuvem sem Chrome do Ref. Só agenda usada.
