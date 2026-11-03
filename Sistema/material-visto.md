@@ -48,3 +48,9 @@
 | 2026-10-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6620007 (= 6620003 na outra turma) | Aula 11 (priorização, MCDA e otimização) |
 | 2026-10-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6620006 (= 6619995) | LTPP_BOOK (livro FHWA-HRT-15-049, 335 p., só registrado) |
 | 2026-10-26 | e-Disciplinas | PTR3432 Aeroportos | 6617906 | Revisão P1 (organizer de horários 03 e 04/11; virou tarefa) |
+| 2026-11-03 | Canvas | Modelagem e Simulação | 2412998 | Instruções para Relatório Parcial PBL.pdf (prazo 03/11 08:00) |
+| 2026-11-03 | Canvas | Modelagem e Simulação | 2398205 | ABSTRACT PBL 2026.docx (só registrado, template de 5 tópicos) |
+| 2026-11-03 | Canvas | Sistemas Digitais | 2413815 | SD_14_PreAula.pdf (virou tarefa) |
+| 2026-11-03 | Canvas | Sistemas Digitais | 2413816 | SD_13_HDL.pdf |
+| 2026-11-03 | Canvas | Biomateriais | 2345502 | Aula 3.pdf (reatualizado em 29/10) |
+| 2026-11-03 | Canvas | Biomateriais | 2352884 | Aula 4.pdf (reatualizado em 29/10, por mapa de seções) |
