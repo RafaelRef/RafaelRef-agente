@@ -54,3 +54,6 @@
 | 2026-11-03 | Canvas | Sistemas Digitais | 2413816 | SD_13_HDL.pdf |
 | 2026-11-03 | Canvas | Biomateriais | 2345502 | Aula 3.pdf (reatualizado em 29/10) |
 | 2026-11-03 | Canvas | Biomateriais | 2352884 | Aula 4.pdf (reatualizado em 29/10, por mapa de seções) |
+| 2026-11-03 | Canvas | Biomateriais | 2371082 | Aula 6 completa.pdf (reatualizado em 29/10; 32 slides só imagem) |
+| 2026-11-03 | Canvas | Biomateriais | 2358565 | Artigo Termodinâmica de Adsorção de Proteínas.pdf (Crago et al. 2024; resumo, seções, conclusão) |
+| 2026-11-03 | Canvas | Bioética | 2412417-2412419 | Aula 12 (20/10) pós-aula para aprofundamento: Gendered Innovation, ACL gendered approach, Keller 1995 (só registrado) |
