@@ -57,3 +57,11 @@
 | 2026-11-03 | Canvas | Biomateriais | 2371082 | Aula 6 completa.pdf (reatualizado em 29/10; 32 slides só imagem) |
 | 2026-11-03 | Canvas | Biomateriais | 2358565 | Artigo Termodinâmica de Adsorção de Proteínas.pdf (Crago et al. 2024; resumo, seções, conclusão) |
 | 2026-11-03 | Canvas | Bioética | 2412417-2412419 | Aula 12 (20/10) pós-aula para aprofundamento: Gendered Innovation, ACL gendered approach, Keller 1995 (só registrado) |
+| 2026-11-10 | Canvas | Sistemas Digitais | 2415405 | SD_14_Verilog.pdf (slides só imagem não lidos) |
+| 2026-11-10 | Canvas | Sistemas Digitais | 2417321 | SD_15_PreLab.pdf (virou tarefa) |
+| 2026-11-10 | Canvas | Modelagem e Simulação | 2415061 | Instruções_TBL3.pdf |
+| 2026-11-10 | Canvas | Modelagem e Simulação | 2415050 | ProcessamentoSinaisBiologicos_adson-psb-capitulo.pdf (por mapa de seções) |
+| 2026-11-10 | Canvas | Biomateriais | 2417840 | Guia de Leitura - Questões Morais e Éticas (por mapa de seções) |
+| 2026-11-10 | Canvas | Biomateriais | 2418059 | Aula 12 - TBL.pdf |
+| 2026-11-10 | Canvas | Biomateriais | 2329736 | Wagner et al. Biomaterials Science 4th (livro, reatualizado 08/11, só registrado) |
+| 2026-11-10 | Canvas | Biomateriais | 2409036-2409055 | ISO 10993 partes 7, 8, 16, 19 (reatualizadas 06/11, só registrado) |
