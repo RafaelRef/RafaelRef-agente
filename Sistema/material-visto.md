@@ -65,3 +65,9 @@
 | 2026-11-10 | Canvas | Biomateriais | 2418059 | Aula 12 - TBL.pdf |
 | 2026-11-10 | Canvas | Biomateriais | 2329736 | Wagner et al. Biomaterials Science 4th (livro, reatualizado 08/11, só registrado) |
 | 2026-11-10 | Canvas | Biomateriais | 2409036-2409055 | ISO 10993 partes 7, 8, 16, 19 (reatualizadas 06/11, só registrado) |
+| 2026-11-13 | Canvas | Biomateriais | 2421015 | ROTEIRO EXPERIMENTAL.pdf (lab de citotoxicidade 16/11; virou 2 tarefas) |
+| 2026-11-13 | Canvas | Física Médica | 2420059 | Introdução a radioterapia.pdf (texto pré-aula, por mapa de seções) |
+| 2026-11-13 | Canvas | Física Médica | 2421066 | Aula Radioterapia.pdf (slides da Aula 15, alguns só imagem) |
+| 2026-11-13 | Canvas | Física Médica | 2420855 | Alunos Seminário Física Médica Teleterapia Grupo 5.pdf (50 MB, só registrado) |
+| 2026-11-13 | Canvas | Modelagem e Simulação | 2415062 | Chapter_18_Biomedical_Signal_Analysis.pdf (por mapa de seções; pendente zerado) |
+| 2026-11-13 | Canvas | Biomateriais | 2329749, 2417840 | Plano de Ensino e Guia de Leitura reatualizados em 12/11 (só registrado, não relidos) |
