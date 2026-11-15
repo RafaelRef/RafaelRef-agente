@@ -71,3 +71,5 @@
 | 2026-11-13 | Canvas | Física Médica | 2420855 | Alunos Seminário Física Médica Teleterapia Grupo 5.pdf (50 MB, só registrado) |
 | 2026-11-13 | Canvas | Modelagem e Simulação | 2415062 | Chapter_18_Biomedical_Signal_Analysis.pdf (por mapa de seções; pendente zerado) |
 | 2026-11-13 | Canvas | Biomateriais | 2329749, 2417840 | Plano de Ensino e Guia de Leitura reatualizados em 12/11 (só registrado, não relidos) |
+| 2026-11-15 | Canvas | Sistemas Digitais | 2422268 | SD_16_PreAula.pdf (preparação P3 Arduino/FPGA; virou 2 tarefas) |
+| 2026-11-15 | Canvas | Biomateriais | 2329749 | Plano de Ensino (reatualizado 12/11) relido: sem mudança no cronograma nem na avaliação; Prova Final segue "07/11" (agenda: 07/12) |
