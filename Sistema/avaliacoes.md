@@ -13,11 +13,11 @@
 | 06/11 | Einstein | BSDigEH | TBL |
 | 09/11 | Einstein | Biomateriais | TBL |
 | 10/11 | Einstein | Modelagem e Simulação | TBL |
-| 11/11 | Einstein | Sistemas Digitais | P3 |
 | 13/11 | Einstein | BSDigEH | TBL |
 | 16/11 | Einstein | Biomateriais | Lab |
 | 23/11 | Poli | Cidades Inteligentes | Apresentação do projeto |
 | 24/11 | Einstein | Bioética | P2 |
+| 25/11 | Einstein | Sistemas Digitais | P3 (era 11/11; a agenda mudou em 11/11) |
 | 26/11 | Poli | PEF3401 Mecânica das Estruturas II | P2 |
 | 26/11 | Poli | PTR3522 Gestão de Pavimentos | P2 |
 | 27/11 | Einstein | BSDigEH | P3 |
@@ -29,7 +29,7 @@
 | 07/12 | Poli | Cidades Inteligentes | Prova final |
 | 08/12 | Poli | PTR3534 Transporte Aéreo | Prova final |
 
-Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Conferido com a agenda em 18/10, 25/10, 01/11 e 08/11 (revisão semanal; em 08/11 até 23/12, nada depois de 08/12); sem mudança de datas nem avaliação nova. Canvas não conferido (Chrome indisponível na execução em nuvem).
+Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Conferido com a agenda em 18/10, 25/10, 01/11, 08/11 e 15/11 (revisão semanal, até 23/12, nada depois de 08/12). Única mudança: P3 SisDig saiu de 11/11 e foi para 25/11 (evento alterado em 11/11). "P2 R4" em 26/11 é a P2 de PEF3401. Canvas não conferido (Chrome indisponível na execução em nuvem).
 
 A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11; "Relatório Final" em 24/11 (IC?). Novos na agenda em 18/10, sem tarefa (não batem com os prefixos de avaliação): "Relatório Parcial" em 27/10, "Visita CETEC - BioMat" em 23/11, "Psub Bioética" em 01/12 (SUB, ignorada).
 

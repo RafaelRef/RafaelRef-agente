@@ -1,4 +1,4 @@
-"""Planeja sessões pré-avaliação espaçadas (v2, 2026-10-14).
+"""Planeja sessões pré-avaliação espaçadas (v2, 2026-10-14; P3 SisDig movida para 25/11 em 2026-11-15).
 Uso: python3 -I planejar_pre.py <agenda1.json> [agenda2.json ...] --existentes existing.json --hoje AAAA-MM-DDTHH:MM --out pages.json
 Agenda: JSON do list_events. Existentes: lista [chave, inicioUTC, fimUTC].
 """
@@ -68,11 +68,11 @@ A = [
  ('2026-11-06','BSDigEH','Einstein','TBL','TBL BSDigEH','3f91f5b2-a2e4-8185-840e-ffa37996eae1'),
  ('2026-11-09','Biomateriais','Einstein','TBL','TBL BioMat','3f91f5b2-a2e4-81eb-9d0c-dde346d08dfc'),
  ('2026-11-10','Modelagem e Simulação','Einstein','TBL','TBL ModelS','3f91f5b2-a2e4-81a8-bdc7-f89c6d9ed4e0'),
- ('2026-11-11','Sistemas Digitais','Einstein','P','P3 SisDig','3f91f5b2-a2e4-8139-af51-df76d2da5b82'),
  ('2026-11-13','BSDigEH','Einstein','TBL','TBL BSDigEH','3f91f5b2-a2e4-811b-9e53-d0a651877148'),
  ('2026-11-16','Biomateriais','Einstein','Lab','Lab BioMat','3f91f5b2-a2e4-81f7-b1cb-fd3f86d5f0bf'),
  ('2026-11-23','Cidades Inteligentes','Poli','Proj','Apresentação Cidades Inteligentes','3f91f5b2-a2e4-81b6-b7e1-f0a98730f2cd'),
  ('2026-11-24','Bioética','Einstein','P','P2 Bioética','3f91f5b2-a2e4-81fd-98c3-c4c6477d2e25'),
+ ('2026-11-25','Sistemas Digitais','Einstein','P','P3 SisDig','3f91f5b2-a2e4-8139-af51-df76d2da5b82'),  # agenda mudou de 11/11 para 25/11 (alterado em 11/11)
  ('2026-11-26','PEF3401 Mecânica das Estruturas II','Poli','P','P2 PEF3401','3f91f5b2-a2e4-8197-b470-fbd227412424'),
  ('2026-11-26','PTR3522 Gestão de Pavimentos','Poli','P','P2 PTR3522','3f91f5b2-a2e4-8128-b13b-eb9bec17c994'),
  ('2026-11-27','BSDigEH','Einstein','P','P3 BSDigEH','3f91f5b2-a2e4-8100-921b-e9a6b3fc7bf4'),

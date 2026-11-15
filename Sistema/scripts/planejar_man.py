@@ -44,7 +44,7 @@ for d,(a,b) in BLOQ.items(): add(d,a,b)
 for i in range(80):
     dd = date(2026,10,14)+TD(days=i); add(dd, 12*60, 13*60)
     if dd.weekday() == 3: add(dd, 9*60, 13*60)
-PROVA = {date(2026,11,11),date(2026,11,24),date(2026,11,26),date(2026,11,27),date(2026,12,1),date(2026,12,2),
+PROVA = {date(2026,11,11),date(2026,11,25),date(2026,11,24),date(2026,11,26),date(2026,11,27),date(2026,12,1),date(2026,12,2),
          date(2026,12,3),date(2026,12,4),date(2026,12,7),date(2026,12,8)}
 def cap(d):
     reta = date(2026,11,16) <= d <= date(2026,12,8)
