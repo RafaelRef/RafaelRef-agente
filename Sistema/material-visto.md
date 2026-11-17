@@ -73,3 +73,9 @@
 | 2026-11-13 | Canvas | Biomateriais | 2329749, 2417840 | Plano de Ensino e Guia de Leitura reatualizados em 12/11 (só registrado, não relidos) |
 | 2026-11-15 | Canvas | Sistemas Digitais | 2422268 | SD_16_PreAula.pdf (preparação P3 Arduino/FPGA; virou 2 tarefas) |
 | 2026-11-15 | Canvas | Biomateriais | 2329749 | Plano de Ensino (reatualizado 12/11) relido: sem mudança no cronograma nem na avaliação; Prova Final segue "07/11" (agenda: 07/12) |
+| 2026-11-17 | Canvas | BSDigEH | 2411347 | Aula 1 - Engenharia Biomédica.pdf (intro ao sistema hematológico, reatualizada 16/11) |
+| 2026-11-17 | Canvas | BSDigEH | 2415035 | Aula 2 - Engenharia Biomédica.pdf (plasma, fatores solúveis e hemostasia, reatualizada 16/11) |
+| 2026-11-17 | Canvas | BSDigEH | 2423227 | Aula 3 - Engenharia Biomédica.pdf (neoplasias hematológicas, TBL Aulas 22 e 23) |
+| 2026-11-17 | Canvas | BSDigEH | 2423228 | Aula 4 - Engenharia Biomédica.pdf (terapias avançadas, TBL Aulas 24 e 25) |
+| 2026-11-17 | Canvas | BSDigEH | 2417924 | Material Pré-Aula - CAR-T em Hematologia.pdf (review Zanetti e Tomaz, CAR em LMA; só registrado, artigo em inglês) |
+| 2026-11-17 | Canvas | Bioética | 2322944 | Aula_Grad_Eng_11_11.pdf (Aula 15, comunidades vulneráveis) |
