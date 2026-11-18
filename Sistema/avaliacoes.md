@@ -17,6 +17,7 @@
 | 16/11 | Einstein | Biomateriais | Lab |
 | 23/11 | Poli | Cidades Inteligentes | Apresentação do projeto |
 | 24/11 | Einstein | Bioética | P2 |
+| 24/11 | Einstein | Modelagem e Simulação | Relatório final, apresentação e arguição do PBL (aviso do Canvas de 18/11; agenda tem "Relatório Final" no dia) |
 | 25/11 | Einstein | Sistemas Digitais | P3 (era 11/11; a agenda mudou em 11/11) |
 | 26/11 | Poli | PEF3401 Mecânica das Estruturas II | P2 |
 | 26/11 | Poli | PTR3522 Gestão de Pavimentos | P2 |
@@ -31,8 +32,10 @@
 
 Sem avaliação na agenda: TCC, PTR3514 SIT (além do projeto). Conferido com a agenda em 18/10, 25/10, 01/11, 08/11 e 15/11 (revisão semanal, até 23/12, nada depois de 08/12). Única mudança: P3 SisDig saiu de 11/11 e foi para 25/11 (evento alterado em 11/11). "P2 R4" em 26/11 é a P2 de PEF3401. Canvas não conferido (Chrome indisponível na execução em nuvem).
 
-A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11; "Relatório Final" em 24/11 (IC?). Novos na agenda em 18/10, sem tarefa (não batem com os prefixos de avaliação): "Relatório Parcial" em 27/10, "Visita CETEC - BioMat" em 23/11, "Psub Bioética" em 01/12 (SUB, ignorada).
+A confirmar com o Ref: "Projeto Final - SIT" também em 11/11 (além de 04/11); "PBL Banca" em 01/12 (matéria?); "Apresentação - PETCT" em 05/11; "Apresentação dos Projetos - Cidades Inteligentes" também em 30/11. Novos na agenda em 18/10, sem tarefa (não batem com os prefixos de avaliação): "Relatório Parcial" em 27/10, "Visita CETEC - BioMat" em 23/11, "Psub Bioética" em 01/12 (SUB, ignorada).
 
 Visto em email (23/10): último Quiz SisDig em 27/10 (segunda chamada 04/11); em 24/10 a agenda tem "QUIZ - Sis Dig" em 28/10 (dia inteiro), então vale a agenda e o Ref confere a data e entrega do relatório do PBL de ModelS em 03/11. Ref deve colocar na agenda se quiser que vire avaliação oficial.
 
 Visto em email (29/10): SUB da P1 de Bioética combinada com Marco Barros para 09/11 12h30 (sala dos professores; pedir na secretaria e pagar antes). Não está na agenda.
+
+Visto em email (18/11): ModelS em 24/11 com relatório final de até 15 páginas (sem referências e apêndice de código), apresentação de 10 min + 5 min de arguição (8h às 10h), arguição individual das 10h às 13h e das 15h40 às 18h, e rascunho de pôster vertical 120 x 80 para imprimir durante a semana.
