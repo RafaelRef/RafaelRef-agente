@@ -79,3 +79,4 @@
 | 2026-11-17 | Canvas | BSDigEH | 2423228 | Aula 4 - Engenharia Biomédica.pdf (terapias avançadas, TBL Aulas 24 e 25) |
 | 2026-11-17 | Canvas | BSDigEH | 2417924 | Material Pré-Aula - CAR-T em Hematologia.pdf (review Zanetti e Tomaz, CAR em LMA; só registrado, artigo em inglês) |
 | 2026-11-17 | Canvas | Bioética | 2322944 | Aula_Grad_Eng_11_11.pdf (Aula 15, comunidades vulneráveis) |
+| 2026-11-19 | Canvas | BSDigEH | 2423228 | Aula 4 - Engenharia Biomédica.pdf reatualizada em 17/11 23h32; relida (44 slides), sem mudança em relação ao resumo de 17/11 |
