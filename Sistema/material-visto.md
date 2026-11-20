@@ -80,3 +80,6 @@
 | 2026-11-17 | Canvas | BSDigEH | 2417924 | Material Pré-Aula - CAR-T em Hematologia.pdf (review Zanetti e Tomaz, CAR em LMA; só registrado, artigo em inglês) |
 | 2026-11-17 | Canvas | Bioética | 2322944 | Aula_Grad_Eng_11_11.pdf (Aula 15, comunidades vulneráveis) |
 | 2026-11-19 | Canvas | BSDigEH | 2423228 | Aula 4 - Engenharia Biomédica.pdf reatualizada em 17/11 23h32; relida (44 slides), sem mudança em relação ao resumo de 17/11 |
+| 2026-11-20 | Canvas | Biomateriais | 2424774 | Resultados experimentais.docx (dados de MTT do lab de citotoxicidade, para o relatório de 30/11) |
+| 2026-11-20 | Canvas | Física Médica | 2424880 | Protonterapia_G2.pdf (seminário G2, 80 slides) |
+| 2026-11-20 | Canvas | Física Médica | 2425044 | Braquiterapia — Aula Grupo 6.pdf (Aula 16, seminário G6, 63 slides) |
