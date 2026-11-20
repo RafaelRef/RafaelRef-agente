@@ -17,6 +17,7 @@
 | PTR3534 Transporte Aéreo (Poli) | Estudos/ptr3534-transporte-aereo | 3ff1f5b2-a2e4-8183-81f4-e6d3f62f012a |
 | Bioética (Einstein) | Estudos/bioetica | 4011f5b2-a2e4-81c4-bf1c-c4029310f611 |
 | PEF3401 Mecânica das Estruturas II (Poli) | Estudos/pef3401-mecanica-das-estruturas-ii | 4051f5b2-a2e4-815d-8605-ee04a7457b78 |
+| PTR3514 SIT (Poli) | Estudos/ptr3514-sit | 41e1f5b2-a2e4-81f2-9872-fce0e4a9a2dc |
 
 - Banco "Plano de Estudos": data source `collection://e98bd3cf-c3e8-4745-a336-c82a1cd26fc9`, database `27248603c73143eca1700beb40cdaeac`, visão Calendário. Fica dentro da página "Estudos" (o Ref renomeou para "Guia de Estudos").
 

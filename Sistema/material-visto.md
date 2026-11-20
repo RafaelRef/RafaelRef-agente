@@ -83,3 +83,10 @@
 | 2026-11-20 | Canvas | Biomateriais | 2424774 | Resultados experimentais.docx (dados de MTT do lab de citotoxicidade, para o relatório de 30/11) |
 | 2026-11-20 | Canvas | Física Médica | 2424880 | Protonterapia_G2.pdf (seminário G2, 80 slides) |
 | 2026-11-20 | Canvas | Física Médica | 2425044 | Braquiterapia — Aula Grupo 6.pdf (Aula 16, seminário G6, 63 slides) |
+| 2026-11-20 | Canvas | Sistemas Digitais | 2425285 | SD_17_FPGA.pdf (regras da P3 FPGA; virou tarefa) |
+| 2026-11-20 | Canvas | Sistemas Digitais | 2425286 | SD_17_Arduino.pdf (regras da P3 Arduino; mesma tarefa) |
+| 2026-11-20 | e-Disciplinas | PEF3401 | 6640373 | Lista 3 - Plasticidade |
+| 2026-11-20 | e-Disciplinas | PEF3401 | 6639908 | Oficina 7 - Enunciado (prova antiga 14/07/2022; tópicos mais cobrados criado). Respostas 6639910 só registrado |
+| 2026-11-20 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6639863 (= 6628095 na outra turma) | Aula 13 (desempenho ambiental, ACV, RAP) |
+| 2026-11-20 | e-Disciplinas | PTR3514 SIT | 6640167 | 26 11 19 Planejamento (datas da Oficina de Projetos; virou tarefa) |
+| 2026-11-20 | e-Disciplinas | vários | - | Pendentes de leitura (limite de 6): PTR3432 06 Localização de sítio (6633018), 07 Projeto Geométrico (6633019), 08 Helicópteros (6633020); PTR3522 Aula 14 Palestra Arteris (6636736/6636735) e Programa ATUALIZADO (6627837/6627834); PTR3534 Aulas até 17Nov26 (6637502); PEF3401 Oficina 7 Respostas (6639910). Só registrados: notas e frequências (PTR3522 6632635-6634209, PTR3534 6637472), PCC3412 vaga de estágio Rocontec (6631009) |
