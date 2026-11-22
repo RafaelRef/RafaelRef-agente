@@ -39,7 +39,8 @@ for ch, s, e in existentes:
         for k, m in PRE2MAT.items():
             if k in ch: pre_sem.add((m, s.isocalendar()[1]))
 BLOQ = {date(2026,10,17): (0,1440), date(2026,10,16): (19*60,1440), date(2026,10,30): (12*60,1440),
-        date(2026,11,13): (19*60,1440), date(2026,11,21): (16*60,1440)}
+        date(2026,11,13): (19*60,1440), date(2026,11,21): (16*60,1440),
+        date(2026,12,10): (0,1440), date(2026,12,13): (19*60,1440)}  # aniversário do Ref e mêsversário (2026-11-22)
 for d,(a,b) in BLOQ.items(): add(d,a,b)
 for i in range(80):
     dd = date(2026,10,14)+TD(days=i); add(dd, 12*60, 13*60)

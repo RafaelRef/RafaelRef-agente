@@ -29,7 +29,8 @@ for ch, s, e in existentes:
     load[s.date()] = load.get(s.date(), 0) + int((e-s).total_seconds()//60)
 # bloqueios pessoais e almoço
 BLOQ = {date(2026,10,17): (0,1440), date(2026,10,16): (19*60,1440), date(2026,10,30): (12*60,1440),
-        date(2026,11,13): (19*60,1440), date(2026,11,21): (16*60,1440)}
+        date(2026,11,13): (19*60,1440), date(2026,11,21): (16*60,1440),
+        date(2026,12,10): (0,1440), date(2026,12,13): (19*60,1440)}  # aniversário do Ref e mêsversário (2026-11-22)
 for d,(a,b) in BLOQ.items(): add(d,a,b)
 d0 = date(2026,10,14)
 for i in range(70):
