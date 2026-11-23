@@ -90,3 +90,6 @@
 | 2026-11-20 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6639863 (= 6628095 na outra turma) | Aula 13 (desempenho ambiental, ACV, RAP) |
 | 2026-11-20 | e-Disciplinas | PTR3514 SIT | 6640167 | 26 11 19 Planejamento (datas da Oficina de Projetos; virou tarefa) |
 | 2026-11-20 | e-Disciplinas | vários | - | Pendentes de leitura (limite de 6): PTR3432 06 Localização de sítio (6633018), 07 Projeto Geométrico (6633019), 08 Helicópteros (6633020); PTR3522 Aula 14 Palestra Arteris (6636736/6636735) e Programa ATUALIZADO (6627837/6627834); PTR3534 Aulas até 17Nov26 (6637502); PEF3401 Oficina 7 Respostas (6639910). Só registrados: notas e frequências (PTR3522 6632635-6634209, PTR3534 6637472), PCC3412 vaga de estágio Rocontec (6631009) |
+| 2026-11-23 | Canvas | Biomateriais | 2425789 | Lista de exercícios parte 1.pdf (Aula 14, 23/11; treino pra P2, sem entrega) |
+| 2026-11-23 | Canvas | Sistemas Digitais | 2425749 | SD_16_Arduino.pdf (Arduino x FPGA e regras da P3; FPGA agora pede testbench de um submódulo) |
+| 2026-11-23 | Canvas | Biomateriais | 2409036 | ISO 10993-8-2000.pdf (reatualizada 23/11, só registrado) |
