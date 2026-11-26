@@ -103,3 +103,9 @@
 | 2026-11-26 | e-Disciplinas | PTR3534 Transporte Aéreo | 6642153 | Aulas até 24Nov26 - final (por mapa da parte nova; substitui 6637502 de 17/11) |
 | 2026-11-26 | e-Disciplinas | PCC3412 | 6643880 | Aviso P2: não serão aceitas provas fora da turma matriculada |
 | 2026-11-26 | e-Disciplinas | vários | - | Ainda pendentes: PTR3432 06, 07, 08 (6633018-6633020); PTR3522 Aula 14 Arteris (6636736/6636735); PEF3401 Oficina 7 Respostas (6639910). Só registrados: notas PTR3534 (6642702), notas ACV PTR3522 (6643205/6643206), Teste em Sala Terminais (quiz 6638375) |
+| 2026-11-26 | Canvas | 6 cursos | - | Segunda rodada do dia: nada novo desde a rodada das 18h |
+| 2026-11-26 | e-Disciplinas | PTR3432 Aeroportos | 6633018 | 06 - Localização de sítio (por mapa; P2 02/12) |
+| 2026-11-26 | e-Disciplinas | PTR3432 Aeroportos | 6633019 | 07 - Projeto Geométrico (tabelas em imagem não lidas) |
+| 2026-11-26 | e-Disciplinas | PTR3432 Aeroportos | 6633020 | 08 - Helicópteros |
+| 2026-11-26 | e-Disciplinas | PTR3522 Gestão de Pavimentos | 6636736 (= 6636735 na outra turma) | Aula 14 Palestra Arteris |
+| 2026-11-26 | e-Disciplinas | PEF3401 | 6639910 | Oficina 7 Respostas (1 página, só respostas finais; só registrado). Pendentes zerados |
