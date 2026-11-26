@@ -93,3 +93,13 @@
 | 2026-11-23 | Canvas | Biomateriais | 2425789 | Lista de exercícios parte 1.pdf (Aula 14, 23/11; treino pra P2, sem entrega) |
 | 2026-11-23 | Canvas | Sistemas Digitais | 2425749 | SD_16_Arduino.pdf (Arduino x FPGA e regras da P3; FPGA agora pede testbench de um submódulo) |
 | 2026-11-23 | Canvas | Biomateriais | 2409036 | ISO 10993-8-2000.pdf (reatualizada 23/11, só registrado) |
+| 2026-11-26 | Canvas | Bioética | 2425734 | Casos TBL Bioética Digital_Eng Bio_26.pdf (TBL III, reatualizado 24/11; revisão) |
+| 2026-11-26 | Canvas | Bioética | 2387782 | Bioética_Eng Bio_2026_atualizado-1.pdf (plano de ensino; 01/12 substitutiva, 08/12 exame) |
+| 2026-11-26 | Canvas | Física Médica | 2428678 | Aula 17 - Fontes Nucleares_Consolidação.pdf (última aula, revisão pra P2 03/12) |
+| 2026-11-26 | Canvas | Física Médica | 2428085 | Raio-X física e formação de imagem G3.pdf (seminário G3, por mapa) |
+| 2026-11-26 | Canvas | Física Médica | 2396417, 2420855 | Aula 09 - Raio X.pdf (reatualizada 25/11) e Teleterapia G5 (reatualizado 26/11): só registrados |
+| 2026-11-26 | Canvas | Bioética | 2412417 | Gendered Innovation_Bel.pdf (reatualizado 24/11, só registrado) |
+| 2026-11-26 | e-Disciplinas | PTR3432 Aeroportos | 6643181 | 09 - Terminais 202602 (P2 02/12) |
+| 2026-11-26 | e-Disciplinas | PTR3534 Transporte Aéreo | 6642153 | Aulas até 24Nov26 - final (por mapa da parte nova; substitui 6637502 de 17/11) |
+| 2026-11-26 | e-Disciplinas | PCC3412 | 6643880 | Aviso P2: não serão aceitas provas fora da turma matriculada |
+| 2026-11-26 | e-Disciplinas | vários | - | Ainda pendentes: PTR3432 06, 07, 08 (6633018-6633020); PTR3522 Aula 14 Arteris (6636736/6636735); PEF3401 Oficina 7 Respostas (6639910). Só registrados: notas PTR3534 (6642702), notas ACV PTR3522 (6643205/6643206), Teste em Sala Terminais (quiz 6638375) |
